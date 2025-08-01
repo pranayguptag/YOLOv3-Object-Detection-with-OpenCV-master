@@ -140,8 +140,8 @@ This will display a list of all available arguments and settings you can modify.
 
 ### Real-Time Webcam Inference
 
-![Webcam Inference](https://github.com/user-attachments/assets/a8b1d273-c910-4cd8-9c8f-02ac2ad38635)
-
+![Webcam Inference]()
+https://github.com/user-attachments/assets/a8b1d273-c910-4cd8-9c8f-02ac2ad38635
 ---
 
 ## 📚 References
