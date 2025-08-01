@@ -136,7 +136,7 @@ This will display a list of all available arguments and settings you can modify.
 
 ### Video Inference
 
-![Video Inference](images/Video.png)
+https://github.com/user-attachments/assets/a0066d06-e8c8-455d-a84d-4f9d788259f6
 
 ### Real-Time Webcam Inference
 
